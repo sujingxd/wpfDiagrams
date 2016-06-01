@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WpfDiagrams">
+</Property><Property Name="Solution File" Value="J:\常用代码\WPF Codes\WpfDiagrams\WpfDiagrams.sln">
+</Property><Property Name="Date" Value="Friday, April 22, 2011">
+</Property><Property Name="Time" Value="20:36 PM">
+</Property></Properties><Event ErrorLevel="0" Project="Aga.Diagrams" Source="Aga.Diagrams\Aga.Diagrams.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Aga.Diagrams" Source="Aga.Diagrams\Aga.Diagrams.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TestApp" Source="TestApp\TestApp.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TestApp" Source="TestApp\TestApp.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WpfDiagrams.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="WpfDiagrams.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Aga.Diagrams" Source="Aga.Diagrams\Aga.Diagrams.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Aga.Diagrams" Source="Aga.Diagrams\Aga.Diagrams.csproj" Description="Created rule set file &quot;J:\常用代码\WPF Codes\WpfDiagrams\Aga.Diagrams\Migrated rules for Aga.Diagrams.ruleset&quot; for the &quot;Debug (Any CPU)&quot; configuration.">
+</Event><Event ErrorLevel="0" Project="TestApp" Source="TestApp\TestApp.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
